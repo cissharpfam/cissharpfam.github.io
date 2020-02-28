@@ -1,0 +1,56 @@
+<html>
+<head link rel="stylesheet" href="./style.css" type="text/css">
+  <!-- write your hero's name here in the <title> element  -->
+  <title></title>
+</head>
+<body>
+  <div>
+    <div>
+      <div>
+        <div>
+          <!-- Main Heading; Give the person's name; use <h1> -->
+          <h1>Steve Irwin </h1>
+          <!-- Subheading; use <h2>  -->
+          <h2>"The Crocodile Hunter"</h2>
+          <div>
+            <!-- place and image here; use an image already on the internet -->
+<img src="https://www.australiazoo.com.au/about-us/the-irwins/images/banner-top_steve.jpg" alt="Steve Irwin">
+            <!-- place a caption under your picture which explains the picture -->
+          <div>this is a photo takened of him with the crocidile he caught.</div>
+          </div>
+          <div>
+            <!-- heading; use <h3>  -->
+            <h3>this why I find him so great.</h3>
+            <!-- write a paragraph explaining why your person is so great  -->
+            <p>Stephen Robert Irwin (22 February 1962 – 4 September 2006), nicknamed "The Crocodile Hunter", was an Australian zookeeper, television personality, wildlife expert, environmentalist and conservationist.Irwin achieved worldwide fame from the television series The Crocodile Hunter (1996–2007), an internationally broadcast wildlife documentary series which he co-hosted with his wife Terri. Together, the couple also hosted the series Croc Files (1999–2001), The Crocodile Hunter Diaries (2002–2006), and New Breed Vets (2005). They also co-owned and operated Australia Zoo, founded by Irwin's parents in Beerwah, about 80 kilometres (50 mi) north of the Queensland state capital city of Brisbane.Terri Irwin continues to operate Australia Zoo and raise their two children. The Sea Shepherd Conservation Society ship MY Steve Irwin was named in his honour.</p>
+          </div>
+          <div>
+            <!-- Timeline heading; use <h3>  -->
+            <h3>he was born on his mothers birthday which is february 22 2962, he died september 4 2004 at the age 44 by stingray injury to the heart at the batt reef, queensland</h3>
+            <!-- create a timeline using an unordered list -->
+<ul>
+  <li>Irwin was born on his mother's birthday to Lyn and Bob Irwin in Essendon, a suburb of Melbourne. He was of Irish descent on his father's side. He moved with his parents as a child to Queensland in 1970, where he attended Landsborough State School and Caloundra State High School. Irwin described his father as a wildlife expert interested in herpetology, while his mother Lyn was a wildlife rehabilitator.</li>
+  <li>After moving to Queensland, Bob and Lyn Irwin started the small Queensland Reptile and Fauna Park, where Steve grew up around crocodiles and other reptiles.Irwin became involved with the park in a number of ways, including taking part in daily animal feeding, as well as care and maintenance activities. On his sixth birthday, he was given a 12-foot (4 m) scrub python.</li>
+<li>He began handling crocodiles at the age of nine after his father had educated him on reptiles from an early age. Also at age nine, he wrestled his first crocodile, again under his father's supervision. He worked as a volunteer for Queensland's East Coast Crocodile Management program and captured over 100 crocodiles, some of which were relocated, while others were housed at the family park. Irwin took over the management of the park in 1991 and renamed it Australia Zoo in 1998.</li>
+</ul>
+            <blockquote>
+              <!-- use the <p> to display a famous quote from your hero -->
+              <p>My favorite catchphrase was "Crikey!" and that was his favorite one too an the only one steve irwin says.</p>
+              <!-- don't forget the quoter's name here -->
+              <footer><cite>&nbsp;&nbsp;&nbsp;        </cite></footer>
+            </blockquote>
+            <!-- using the <h3> and the <a>, invite the reader to visit a wiki page concerning your hero  -->
+            <h3></h3>
+          </div>
+        </div>
+      </div>
+    </div>
+    <footer>
+      <!--  use the <hr> to create a horizontal line separating the footer section -->
+
+      <!--  using the <p>, take ownership of your page  -->
+      <p>         </p>
+    </footer>
+  </div>
+</body>
+</html>
